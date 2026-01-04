@@ -3,7 +3,7 @@
 💻 Frontend & Backend JavaScript Developer
 ⚛️ React & Next.js enthusiast  
 🚀 Focused on modern, scalable, full-stack web applications 
-🧱 Freelance WordPress Developer (Bricks Builder)
+🧱 Freelance WordPress Developer (Bricks Builder, ACF)
 
 ---
 
