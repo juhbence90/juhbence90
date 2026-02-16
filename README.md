@@ -14,7 +14,7 @@
 
 ---
 
-### 🟩 Backend Development with Node.js 
+### 🟩 Backend Development with Node.js (Express.js)
 🏫 Cubix Institute of Technology  
 
 ---
