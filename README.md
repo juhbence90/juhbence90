@@ -9,7 +9,7 @@
 
 ## 🎓 Education & Certifications
 
-### 🟦 Frontend Development with JavaScript 
+### 🟦 Frontend Development with JavaScript, TypeScript
 🏫 Cubix Institute of Technology  
 
 ---
